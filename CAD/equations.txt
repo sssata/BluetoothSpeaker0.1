@@ -1,0 +1,5 @@
+﻿"t" = 6mm
+"width" = 13cm
+"height" = 9cm
+"depth" = 7.5cm
+"port length" = 6cm
