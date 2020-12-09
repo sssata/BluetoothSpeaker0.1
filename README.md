@@ -1,6 +1,8 @@
 # BluetoothSpeaker0.1
 3D Printed Stereo Bluetooth speaker
 
+Completed 2019
+
 # Features
 - Stereo bluetooth speaker
 - Also doubles as a battery bank
